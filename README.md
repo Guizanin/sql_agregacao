@@ -1,4 +1,4 @@
-# sql_agregacao
+# Estudo SQL one to many
 
 Desenvolvimento para estudar a criação de uma pesquisa SQL em tabela com relacionamento _one to many_ ou 1X
 
