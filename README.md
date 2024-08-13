@@ -32,4 +32,4 @@ GROUP BY 1,2,3
 
 - a saída do comando acima é
 
-[![RESULTADO DA PESQUISA ACIMA](./img/resultado_pesquisa.png)]
+![RESULTADO DA PESQUISA ACIMA](./img/resultado_pesquisa.png)
